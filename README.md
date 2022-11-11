@@ -1,1 +1,1 @@
-# MyAplication
+# MyApplication
